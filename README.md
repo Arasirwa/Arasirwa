@@ -38,19 +38,23 @@
 
 ---
 
-<h3 align="left">🧩 Projects I'm Proud Of</h3>
+### 🧩 Projects I'm Proud Of
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  
-  <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT" target="_blank" style="text-decoration: none;">
-    <div style="border: 1px solid #444; border-radius: 10px; padding: 20px; width: 300px;">
-      <h4>✈️ Aviation Risk Analyzer</h4>
-      <p style="font-size: 0.9rem;">Using ML to spot patterns in aviation accidents and reduce risks.</p>
-      <p><strong>Tech:</strong> Python, Pandas, Tableai</p>
-    </div>
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td width="400px">
+      <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arasirwa&repo=DSFT-13-END-OF-PHASE-PROJECT&theme=github_dark" alt="Aviation Risk Analyzer Repo Card">
+      </a>
+    </td>
+    <td>
+      <strong>✈️ Aviation Risk Analyzer</strong><br>
+      Using machine learning to uncover insights from aviation accident data and reduce future risks.<br><br>
+      <strong>Tech:</strong> Python, Pandas, Tableau<br>
+      <strong>Link:</strong> <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT" target="_blank">View Repo</a>
+    </td>
+  </tr>
+</table>
 
 
 ---
