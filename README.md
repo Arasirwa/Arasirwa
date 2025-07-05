@@ -1,12 +1,14 @@
 <!-- Introduction Section -->
 <h1 align="center" style="font-size: 3rem;">Hi 👋, I'm <span style="color:#0e75b6;">Arasirwa</span></h1>
 <h2 align="center" style="font-weight: 400;">Just here to build cool stuff and maybe solve a problem or two in this crazy world 🌍</h2>
+
 <!-- Profile Views -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arasirwa.Arasirwa&left_text=wageni" />
 </p>
 
-<!-- 🛠️ Tech Stack Section -->
+---
+
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -26,7 +28,6 @@
 
 ---
 
-<!-- 📊 GitHub Stats Section -->
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -56,16 +57,41 @@
   </tr>
 </table>
 
-
 ---
 
-<!-- 🌐 Social Links -->
 ### 🌐 Connect With Me
-<table> <tr> <td align="center"> <a href="mailto:arasirwawilliam22@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" alt="Gmail" /><br/> <sub>Gmail</sub> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" alt="LinkedIn" /><br/> <sub>LinkedIn</sub> </a> </td> <td align="center"> <a href="https://www.instagram.com/just.arasirwa" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" alt="Instagram" /><br/> <sub>Instagram</sub> </a> </td> <td align="center"> <a href="https://www.kaggle.com/datamage01" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" alt="Kaggle" /><br/> <sub>Kaggle</sub> </a> </td> </tr> </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:arasirwawilliam22@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" alt="Gmail" /><br/>
+        <sub>Gmail</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" alt="LinkedIn" /><br/>
+        <sub>LinkedIn</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/just.arasirwa" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" alt="Instagram" /><br/>
+        <sub>Instagram</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/datamage01" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" alt="Kaggle" /><br/>
+        <sub>Kaggle</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- 🎮 Pacman Contribution Graph -->
 ### 🕹️ My Contributions
 
 <picture>
