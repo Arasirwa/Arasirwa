@@ -61,18 +61,7 @@
 
 <!-- 🌐 Social Links -->
 ### 🌐 Connect With Me
-<div align="left">
-  <a href="mailto:arasirwawilliam22@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="Gmail" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="LinkedIn" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.instagram.com/just.arasirwa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="45" alt="Instagram" />
-  </a>
-</div>
-
+<table> <tr> <td align="center"> <a href="mailto:arasirwawilliam22@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" alt="Gmail" /><br/> <sub>Gmail</sub> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" alt="LinkedIn" /><br/> <sub>LinkedIn</sub> </a> </td> <td align="center"> <a href="https://www.instagram.com/just.arasirwa" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" alt="Instagram" /><br/> <sub>Instagram</sub> </a> </td> <td align="center"> <a href="https://www.kaggle.com/datamage" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="60" alt="Kaggle" /><br/> <sub>Kaggle</sub> </a> </td> </tr> </table>
 
 ---
 
