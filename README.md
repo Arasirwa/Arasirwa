@@ -24,7 +24,7 @@ I am currently working on **Pandas and EDA**, and refining my skills in **Machin
 When I'm not coding, I enjoy **gaming** — from FIFA and Battlefield to story-driven adventures — and playing **basketball**. I also recently started exploring **Chess**, which helps me think strategically in both games and data projects.
 
 * 🔭 I’m currently working on: **Pandas and Advanced EDA**
-* 🌱 I’m currently learning: **Machine Learning and Deep Learning and Cloud Deploymen**
+* 🌱 I’m currently learning: **Machine Learning and Deep Learning and Cloud Deployment**
 * ⚡ Fun fact: I approach data problems the same way I approach games—strategic planning and experimentation lead to success.
 
 ---
