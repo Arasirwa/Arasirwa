@@ -1,14 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=220&section=header&text=Arasirwa%20William&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-  <p align="center">
-    <a href="mailto:arasirwawilliam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Arasirwa"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Arasirwa%20William&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descSize=18&descAlignY=55" width="100%"/>
+
+<p>
+  <a href="mailto:arasirwawilliam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Arasirwa">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 </div>
-
----
 
 ## 👨‍💻 About Me
 
