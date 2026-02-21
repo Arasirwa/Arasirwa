@@ -81,7 +81,6 @@ Outside of tech, I enjoy competitive gaming, basketball, and chess — disciplin
 <div align="center">
 <img src="https://img.shields.io/badge/Problem-Regression-blue" />
 <img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
-<img src="https://img.shields.io/badge/Validation-Time_Split-orange" />
 </div>
 
 **Focus:** Predict taxi trip duration using engineered spatial & temporal features.
