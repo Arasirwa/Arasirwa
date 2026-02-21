@@ -1,42 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Hi,%20I'm%20Arasirwa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Python%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=220&section=header&text=Arasirwa%20William&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20in%20Progress&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
 <a href="mailto:arasirwawilliam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-<br/><br/>
-
-<img align="right" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
+<a href="https://github.com/Arasirwa">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I am a data enthusiast focused on transforming raw data into **actionable insights**. With a strong foundation in **Python** and **Machine Learning**, I build intelligent applications that solve real-world problems.
+I build data-driven systems that turn raw information into meaningful insights and predictive intelligence.
 
-I am currently working on **Pandas and EDA**, and refining my skills in **Machine Learning**, **SQL**, and **database management**.
+With a strong foundation in **Python, data analysis, and machine learning**, I focus on:
+- Structured problem solving  
+- Clean feature engineering  
+- Model evaluation with real-world validation  
+- Continuous skill refinement  
 
-When I'm not coding, I enjoy **gaming** — from FIFA and Battlefield to story-driven adventures — and playing **basketball**. I also recently started exploring **Chess**, which helps me think strategically in both games and data projects.
+Currently deepening my expertise in:
+- Machine Learning & Model Optimization  
+- SQL & Database Systems  
+- Deep Learning Fundamentals  
+- Cloud Deployment for ML systems  
 
-* 🔭 I’m currently working on: **Pandas and Advanced EDA**
-* 🌱 I’m currently learning: **Machine Learning and Deep Learning and Cloud Deployment**
-* ⚡ Fun fact: I approach data problems the same way I approach games—strategic planning and experimentation lead to success.
+Outside of tech, I enjoy competitive gaming, basketball, and chess — disciplines that sharpen strategic thinking and decision-making under uncertainty.
 
 ---
 
 ## 🛠 Tech Stack
 
-| **Category** | **Technologies** |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat) |
-| **Tools** | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) |
+| **Languages** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy |
+| **Machine Learning** | Scikit-Learn, LightGBM |
+| **Visualization** | Matplotlib, Seaborn |
+| **Tools** | Git, VS Code, Jupyter Notebook |
 
 ---
 
@@ -44,45 +52,73 @@ When I'm not coding, I enjoy **gaming** — from FIFA and Battlefield to story-d
 
 <table>
   <tr>
-    <!-- Netflix Project -->
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Netflix Data Analysis</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Focus-EDA-blue" />
-        <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
-        <img src="https://img.shields.io/badge/Visualization-Seaborn-success" />
-      </div>
-      <p><strong>Objective:</strong> Perform exploratory data analysis on Netflix titles to uncover content trends and distribution patterns.</p>
-      <p><strong>Highlights:</strong> Data cleaning, missing value handling, string processing, and univariate & multivariate analysis.</p>
-      <div align="center">
-        <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>Explore Project »</strong></a>
-      </div>
-    </td>
 
-    <!-- NYC Taxi Project -->
-    <td width="50%" valign="top">
-      <h3 align="center">🚕 NYC Taxi Trip Duration – Regression</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Task-Regression-blue" />
-        <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange" />
-        <img src="https://img.shields.io/badge/Boosting-LightGBM-success" />
-      </div>
-      <p><strong>Objective:</strong> Develop a predictive model to estimate taxi trip duration using spatial and temporal features.</p>
-      <p><strong>Highlights:</strong> Distance feature engineering (Haversine & Manhattan), log-transformed target modeling, time-based validation, and gradient boosting optimization.</p>
-      <div align="center">
-        <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>Explore Project »</strong></a>
-      </div>
-    </td>
-  </tr>
+### 🎬 Netflix Data Analysis
+
+<div align="center">
+<img src="https://img.shields.io/badge/Type-EDA-blue" />
+<img src="https://img.shields.io/badge/Tool-Pandas-orange" />
+<img src="https://img.shields.io/badge/Visualization-Seaborn-success" />
+</div>
+
+**Focus:** Explore Netflix content trends through structured exploratory data analysis.
+
+**Skills Demonstrated:** Data cleaning, feature engineering, categorical analysis, visualization.
+
+<div align="center">
+<a href="https://github.com/Arasirwa/vigilant-rotary-phone">
+<strong>View Project »</strong>
+</a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚕 NYC Taxi Trip Duration – ML Regression
+
+<div align="center">
+<img src="https://img.shields.io/badge/Problem-Regression-blue" />
+<img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
+<img src="https://img.shields.io/badge/Validation-Time_Split-orange" />
+</div>
+
+**Focus:** Predict taxi trip duration using engineered spatial & temporal features.
+
+**Skills Demonstrated:**  
+Haversine & Manhattan distance engineering, log-target modeling, time-based validation, and ensemble optimization.
+
+<div align="center">
+<a href="https://github.com/Arasirwa/nyc-reg-project">
+<strong>View Project »</strong>
+</a>
+</div>
+
+</td>
+</tr>
 </table>
+
+## 🎯 Current Learning Focus
+
+- Advanced Feature Engineering  
+- Model Interpretability (SHAP, Feature Importance)  
+- Deep Learning Fundamentals  
+- Deployment Concepts (APIs & Cloud Integration)  
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certification
 
-| Certificate | Platform | Link |
-|-------------|---------|------|
-| Data Science Bootcamp | Moringa School | [View](#) |
+| Program | Institution |
+|---------|-------------|
+| Data Science Bootcamp | Moringa School |
 
+---
+
+## 📈 Philosophy
+
+> Build. Evaluate. Refine. Repeat.  
+Strong models come from disciplined iteration, not guesswork.
 
 ---
