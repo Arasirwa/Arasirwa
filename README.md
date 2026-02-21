@@ -59,6 +59,25 @@ When I'm not coding, I enjoy **gaming** — from FIFA and Battlefield to story-d
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">NYC Taxi Trip Duration – Regression</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Task-Regression-blue" />
+        <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange" />
+        <img src="https://img.shields.io/badge/Boosting-LightGBM-success" />
+        <img src="https://img.shields.io/badge/EDA-Seaborn-blueviolet" />
+      </div>
+      <p><strong>Goal:</strong> Build a machine learning model to predict taxi trip duration in New York City using spatial and temporal features.</p>
+      <p><strong>Key Highlights:</strong> Advanced feature engineering (Haversine & Manhattan distance), time-based validation, log-transformed target modeling, and gradient boosting optimization.</p>
+      <div align="center"> 
+        <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>Explore Project »</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🏆 Certifications
