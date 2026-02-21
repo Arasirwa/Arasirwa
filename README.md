@@ -16,7 +16,7 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
 
 - **Current Mission:** Deepening expertise in Deep Learning and Cloud ML deployment.
 - **Superpower:** Using **React** and **Rails** to bring data models to life.
-- **Mindset:** Competitive gamer and chess player—I approach code with a strategic, "optimal move" mentality.
+- **Mindset:** Competitive gamer hooper  and chess player—I approach code with a strategic, "optimal move" mentality.
 
 ---
 
