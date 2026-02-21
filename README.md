@@ -48,7 +48,7 @@ Outside of tech, I enjoy competitive gaming, basketball, and chess — disciplin
 
 ---
 
-## 📊 Portfolio Projects
+## Projects
 
 <table>
   <tr>
@@ -87,7 +87,7 @@ Outside of tech, I enjoy competitive gaming, basketball, and chess — disciplin
 **Focus:** Predict taxi trip duration using engineered spatial & temporal features.
 
 **Skills Demonstrated:**  
-Haversine & Manhattan distance engineering, log-target modeling, time-based validation, and ensemble optimization.
+Haversine & Manhattan distance engineering, log-target modeling, and ensemble optimization.
 
 <div align="center">
 <a href="https://github.com/Arasirwa/nyc-reg-project">
