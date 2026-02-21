@@ -44,34 +44,32 @@ When I'm not coding, I enjoy **gaming** — from FIFA and Battlefield to story-d
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- Netflix Project -->
+    <td width="50%" valign="top">
       <h3 align="center">🎬 Netflix Data Analysis</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Pandas-Feature_Engineering-blue" />
+        <img src="https://img.shields.io/badge/Focus-EDA-blue" />
+        <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
         <img src="https://img.shields.io/badge/Visualization-Seaborn-success" />
       </div>
-      <p><strong>Goal:</strong> Analyze Netflix content trends, explore Movies and Tv shows while practicing pandas and EDA.</p>
-      <p><strong>Key Tech:</strong> Handling missing values, string manipulation, univariate & multivariate analysis.</p>
+      <p><strong>Objective:</strong> Perform exploratory data analysis on Netflix titles to uncover content trends and distribution patterns.</p>
+      <p><strong>Highlights:</strong> Data cleaning, missing value handling, string processing, and univariate & multivariate analysis.</p>
       <div align="center">
         <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>Explore Project »</strong></a>
       </div>
     </td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">NYC Taxi Trip Duration – Regression</h3>
+    <!-- NYC Taxi Project -->
+    <td width="50%" valign="top">
+      <h3 align="center">🚕 NYC Taxi Trip Duration – Regression</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Task-Regression-blue" />
         <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange" />
         <img src="https://img.shields.io/badge/Boosting-LightGBM-success" />
-        <img src="https://img.shields.io/badge/EDA-Seaborn-blueviolet" />
       </div>
-      <p><strong>Goal:</strong> Build a machine learning model to predict taxi trip duration in New York City using spatial and temporal features.</p>
-      <p><strong>Key Highlights:</strong> Advanced feature engineering (Haversine & Manhattan distance), time-based validation, log-transformed target modeling, and gradient boosting optimization.</p>
-      <div align="center"> 
+      <p><strong>Objective:</strong> Develop a predictive model to estimate taxi trip duration using spatial and temporal features.</p>
+      <p><strong>Highlights:</strong> Distance feature engineering (Haversine & Manhattan), log-transformed target modeling, time-based validation, and gradient boosting optimization.</p>
+      <div align="center">
         <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>Explore Project »</strong></a>
       </div>
     </td>
