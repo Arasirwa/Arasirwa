@@ -204,7 +204,30 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
       <a href="https://github.com/Arasirwa/My-Phase-project-Airb-b"><strong>Repository »</strong></a>
     </td>
   </tr>
+
+  <h3>🎬 Mock Online Movie Shop</h3>
+
+<img src="https://img.shields.io/badge/Frontend-Vanilla_JS-yellow" />
+<img src="https://img.shields.io/badge/API-IMDb_Integration-blue" />
+<img src="https://img.shields.io/badge/Concept-Cart_Logic-orange" />
+
+<p>
+My first web application project exploring API integration and basic e-commerce logic using vanilla JavaScript.
+</p>
+
+<ul>
+<li>Fetched movie data from a third-party API.</li>
+<li>Implemented cart functionality using DOM manipulation.</li>
+<li>Used movie ratings as a pricing model for simulation.</li>
+<li>Built interactive UI with basic checkout flow concepts.</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/Phase-1-project-mock-online-movie-shop-">
+<strong>View Repository »</strong>
+</a>
 </table>
+
+
 
 ---
 
