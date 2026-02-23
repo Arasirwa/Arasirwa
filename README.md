@@ -20,53 +20,163 @@
 
 ## 👨‍💻 About Me
 
-I build intelligent systems that connect data science with practical applications.
+I build intelligent systems connecting data science with real-world applications.
 
-My focus is on end-to-end solutions — from data preprocessing and model training to deployment and real-world integration.
+Focused on end-to-end engineering — from data modeling to deployment.
 
-- **Current Focus:** Deep Learning & Cloud ML Deployment  
-- **Strength:** Bridging ML models with web applications  
-- **Mindset:** Strategic problem solver with an engineering approach  
+- **Current Focus:** Deep Learning & Cloud ML  
+- **Strength:** Bridging ML with web systems  
+- **Mindset:** Engineering-first problem solver  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### 🧠 Data Science & ML
+Python • SQL • Pandas • Scikit-Learn • Matplotlib
 
 ### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+JavaScript • React • Zustand • TailwindCSS • Ruby • Sinatra
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Project Journey (Chronological)
+
+### 🌱 Phase 1 – My First Projects (Foundation)
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🎬 Mock Online Movie Shop</h3>
+      <img src="https://img.shields.io/badge/Frontend-Vanilla_JS-yellow" />
+      <img src="https://img.shields.io/badge/API-IMDb_Integration-blue" />
+      <p>My first web application exploring API integration and basic cart logic using vanilla JavaScript.</p>
+      <ul>
+        <li>Fetched movie data from third-party API</li>
+        <li>Implemented cart functionality with DOM manipulation</li>
+        <li>Used movie ratings as a pricing simulation</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/Phase-1-project-mock-online-movie-shop-"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Phase 2 – Early Full Stack & Backend Exploration
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 Netflix Content Analysis</h3>
-      <img src="https://img.shields.io/badge/Type-EDA-blue" />
-      <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
-      <p>Explored streaming trends using structured exploratory data analysis and visualization techniques.</p>
-      <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
+      <h3>🏠 Full-Stack Auth & Listing App (Airb-b)</h3>
+      <img src="https://img.shields.io/badge/Frontend-React-blue" />
+      <img src="https://img.shields.io/badge/Backend-Sinatra-red" />
+      <p>Authentication-based full-stack app with React frontend and Sinatra backend using SQLite.</p>
+      <ul>
+        <li>User registration & login authentication</li>
+        <li>CRUD operations for house listings</li>
+        <li>Backend API with database integration</li>
+        <li>Frontend + backend deployment</li>
+      </ul>
+      <a href="https://64834f58708fc028cd951eab--regal-meerkat-9691f5.netlify.app/"><strong>Live Frontend »</strong></a>
+      <br/><br/>
+      <a href="https://magebo.onrender.com"><strong>Backend API »</strong></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🍹 Smoothie Recipe Platform</h3>
+      <img src="https://img.shields.io/badge/Stack-React-blue" />
+      <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-orange" />
+      <p>Collaborative full-stack recipe platform with API integration and deployed backend.</p>
+      <ul>
+        <li>Built REST API backend with database</li>
+        <li>Implemented recipe CRUD</li>
+        <li>Integrated frontend with deployed backend</li>
+        <li>Deployed frontend on Netlify & backend on Render</li>
+      </ul>
+      <a href="https://peaceful-sunburst-88d1f5.netlify.app/smoothie/3"><strong>Live Website »</strong></a>
+      <br/><br/>
+      <a href="https://github.com/Arasirwa/oursplash"><strong>Frontend Repo »</strong></a>
+      <br/><br/>
+      <a href="https://github.com/Arasirwa/backend"><strong>Backend Repo »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Phase 3 – Professional Web Applications
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👟 Stride E-Store</h3>
+      <img src="https://img.shields.io/badge/Stack-React-blue" />
+      <img src="https://img.shields.io/badge/State-Zustand-purple" />
+      <p>Modern e-commerce app with state management and order tracking.</p>
+      <ul>
+        <li>Zustand global state management</li>
+        <li>API-driven product fetching</li>
+        <li>Order tracking system</li>
+        <li>Responsive UI with TailwindCSS</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/stride"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Finance Tracker</h3>
+      <img src="https://img.shields.io/badge/Concept-CRUD-orange" />
+      <img src="https://img.shields.io/badge/Backend-JSON_Server-green" />
+      <p>CRUD finance tracking application with analytics and search functionality.</p>
+      <ul>
+        <li>Full CRUD with React hooks</li>
+        <li>Mock backend with JSON Server</li>
+        <li>Search & filtering</li>
+        <li>Expense analytics dashboard</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/finance-tracker"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 Phase 4 – Data Science Foundations
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>✈️ Aviation Accident Risk Analysis</h3>
+      <img src="https://img.shields.io/badge/Focus-EDA-blue" />
+      <img src="https://img.shields.io/badge/Tool-Tableau-orange" />
+      <p>My first data science project analyzing aviation risk patterns using Python and Tableau.</p>
+      <ul>
+        <li>Data cleaning & feature engineering</li>
+        <li>Trend & risk analysis</li>
+        <li>Interactive Tableau dashboard</li>
+        <li>Business investment recommendations</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Phase 5 – Advanced Machine Learning & Analytics
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
       <h3>🚕 NYC Taxi Prediction</h3>
       <img src="https://img.shields.io/badge/Problem-Regression-blue" />
       <img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
       <p>Predicted trip duration using feature engineering and ensemble modeling techniques.</p>
+      <ul>
+        <li>Extensive exploratory data analysis</li>
+        <li>Geospatial feature engineering</li>
+        <li>Gradient Boosting Regressor implementation</li>
+      </ul>
       <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎬 Movie Studio Strategy Analysis</h3>
       <img src="https://img.shields.io/badge/Focus-SQL-blue" />
@@ -74,12 +184,13 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
       <p>Performed business analysis using SQLite and Python to derive insights for film production strategy.</p>
       <ul>
         <li>SQL querying on relational movie databases</li>
-        <li>Data cleaning with Pandas</li>
         <li>Profitability & genre analysis</li>
         <li>Actionable business recommendations</li>
       </ul>
       <a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏋️ Athlete360 — Performance Prediction</h3>
       <img src="https://img.shields.io/badge/Model-LightGBM-blue" />
@@ -89,9 +200,20 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
         <li>Feature engineering with rolling statistics</li>
         <li>LightGBM model optimization</li>
         <li>K-Means athlete segmentation</li>
-        <li>Built prediction app via app.py</li>
       </ul>
       <a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Netflix Content Analysis</h3>
+      <img src="https://img.shields.io/badge/Type-EDA-blue" />
+      <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
+      <p>Explored streaming trends using structured exploratory data analysis and visualization techniques.</p>
+      <ul>
+        <li>Data cleaning and aggregation</li>
+        <li>Visualized global content distribution</li>
+        <li>Identified long-term genre trends</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
     </td>
   </tr>
   <tr>
@@ -102,7 +224,7 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
       <p>Built a multi-class classifier to predict crash causes using a large real-world dataset.</p>
       <ul>
         <li>Handled 1.7M+ rows dataset</li>
-        <li>Applied SMOTE for imbalance</li>
+        <li>Applied SMOTE for class imbalance</li>
         <li>Compared multiple ML models</li>
         <li>Achieved 89% accuracy with Random Forest</li>
       </ul>
@@ -111,137 +233,20 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
   </tr>
 </table>
 
-## 🌱 Foundational Data Science Projects
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>✈️ Aviation Accident Risk Analysis</h3>
-      <img src="https://img.shields.io/badge/Focus-EDA-blue" />
-      <img src="https://img.shields.io/badge/Tool-Tableau-orange" />
-      <p>My first data science project analyzing aviation accident data to identify investment risks and safety patterns in aircraft operations.</p>
-      <ul>
-        <li>Performed data cleaning and feature engineering using Python.</li>
-        <li>Analyzed accident trends across aircraft models and regulatory categories.</li>
-        <li>Built interactive Tableau dashboard for business storytelling.</li>
-        <li>Generated actionable investment recommendations based on risk analysis.</li>
-      </ul>
-      <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT"><strong>View Project »</strong></a>
-    </td>
-  </tr>
-</table>
-
 ---
 
-## 🌐 Web Development Projects
+## 🏆 Certifications
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👟 Stride E-Store</h3>
-      <img src="https://img.shields.io/badge/Stack-React-blue" />
-      <img src="https://img.shields.io/badge/State-Zustand-purple" />
-      <img src="https://img.shields.io/badge/Styling-TailwindCSS-green" />
-      <p>Modern e-commerce platform for browsing, purchasing, and tracking shoe orders with global state management and dynamic UI updates.</p>
-      <ul>
-        <li>Built with React and Zustand for efficient state handling.</li>
-        <li>Implemented order tracking with status updates.</li>
-        <li>Integrated API-driven product and order fetching.</li>
-        <li>Designed responsive UI using Tailwind CSS.</li>
-      </ul>
-      <a href="https://github.com/Arasirwa/stride"><strong>View Project »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Finance Tracker</h3>
-      <img src="https://img.shields.io/badge/Stack-React-blue" />
-      <img src="https://img.shields.io/badge/Concept-CRUD-orange" />
-      <img src="https://img.shields.io/badge/Tech-JSON_Server-green" />
-      <p>A CRUD-based finance tracking application built to manage expenditures with analytics and search functionality.</p>
-      <ul>
-        <li>Implemented full CRUD operations using React hooks.</li>
-        <li>Used JSON Server to simulate backend API.</li>
-        <li>Built search and filtering features.</li>
-        <li>Added analytics for total, highest expense, and category insights.</li>
-      </ul>
-      <a href="https://github.com/Arasirwa/finance-tracker"><strong>View Project »</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍹 Smoothie Recipe Platform</h3>
-      <img src="https://img.shields.io/badge/Stack-React-blue" />
-      <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-orange" />
-      <img src="https://img.shields.io/badge/Deployment-Netlify%20%7C%20Render-green" />
-      <p>A collaborative full-stack recipe platform that allows users to browse, post, and manage smoothie recipes with backend API integration.</p>
-      <ul>
-        <li>Built a REST API backend with database integration.</li>
-        <li>Implemented recipe CRUD functionality.</li>
-        <li>Integrated frontend with deployed backend API.</li>
-        <li>Deployed frontend on Netlify and backend on Render.</li>
-      </ul>
-      <a href="https://peaceful-sunburst-88d1f5.netlify.app/smoothie/3"><strong>Live Website »</strong></a>
-      <br/><br/>
-      <a href="https://github.com/Arasirwa/oursplash"><strong>Frontend Repo »</strong></a>
-      <br/><br/>
-      <a href="https://github.com/Arasirwa/backend"><strong>Backend Repo »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Full-Stack Authentication & Listing App (Airb-b)</h3>
-      <img src="https://img.shields.io/badge/Frontend-React-blue" />
-      <img src="https://img.shields.io/badge/Backend-Sinatra-red" />
-      <img src="https://img.shields.io/badge/Database-SQLite-green" />
-      <p>A full-stack application with authentication and CRUD functionality built using React and a Sinatra backend with SQLite database integration.</p>
-      <ul>
-        <li>Implemented user registration and login authentication.</li>
-        <li>Built backend API using Ruby Sinatra.</li>
-        <li>Integrated database operations for creating and deleting listings.</li>
-        <li>Deployed frontend on Netlify and backend on Render.</li>
-      </ul>
-      <a href="https://64834f58708fc028cd951eab--regal-meerkat-9691f5.netlify.app/"><strong>Live Frontend »</strong></a>
-      <br/><br/>
-      <a href="https://magebo.onrender.com"><strong>Backend API »</strong></a>
-      <br/><br/>
-      <a href="https://github.com/Arasirwa/My-Phase-project-Airb-b"><strong>Repository »</strong></a>
-    </td>
-  </tr>
-
-  <h3>🎬 Mock Online Movie Shop</h3>
-
-<img src="https://img.shields.io/badge/Frontend-Vanilla_JS-yellow" />
-<img src="https://img.shields.io/badge/API-IMDb_Integration-blue" />
-<img src="https://img.shields.io/badge/Concept-Cart_Logic-orange" />
-
-<p>
-My first web application project exploring API integration and basic e-commerce logic using vanilla JavaScript.
-</p>
-
-<ul>
-<li>Fetched movie data from a third-party API.</li>
-<li>Implemented cart functionality using DOM manipulation.</li>
-<li>Used movie ratings as a pricing model for simulation.</li>
-<li>Built interactive UI with basic checkout flow concepts.</li>
-</ul>
-
-<a href="https://github.com/Arasirwa/Phase-1-project-mock-online-movie-shop-">
-<strong>View Repository »</strong>
-</a>
-</table>
-
-
-
----
-
-## 🏆 Certifications & Education
-
-- **Data Science Bootcamp** | Moringa School  
-- **Web Development** | Moringa School  
+- Data Science Bootcamp – Moringa School  
+- Web Development – Moringa School  
 
 ---
 
 ## 📈 Philosophy
 
-> Build. Evaluate. Refine. Repeat.  
-> Data without context is noise. Code without purpose is waste.
+> Build. Break. Improve. Scale.  
+
+Data without context is noise. Code without purpose is wasted potential.
 
 ---
 
