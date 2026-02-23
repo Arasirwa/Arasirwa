@@ -105,6 +105,28 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
 
   <a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
 </td>
+
+<td width="50%" valign="top">
+  <h3>🚗 Chicago Crash Cause Prediction</h3>
+
+  <img src="https://img.shields.io/badge/Focus-Classification-blue" />
+  <img src="https://img.shields.io/badge/Model-Random_Forest-success" />
+  <img src="https://img.shields.io/badge/Tech-SMOTE%20%7C%20Hyperparameter_Tuning-orange" />
+
+  <p>
+  Built a multi-class machine learning model to predict the primary cause of traffic crashes using real-world urban dataset containing 1.7M+ records.
+  </p>
+
+  <ul>
+    <li>Preprocessed numerical and categorical features using pipelines and transformers.</li>
+    <li>Addressed severe class imbalance using SMOTE.</li>
+    <li>Compared Logistic Regression, Decision Tree, and Random Forest models.</li>
+    <li>Optimized models using RandomizedSearchCV for hyperparameter tuning.</li>
+    <li>Achieved strong performance with ensemble modeling (89% accuracy).</li>
+  </ul>
+
+  <a href="https://github.com/Arasirwa/jubilant-guacamole"><strong>View Project »</strong></a>
+</td>
 </table>
 
 ---
