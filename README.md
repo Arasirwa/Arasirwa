@@ -156,6 +156,37 @@ Built a multi-class classifier to predict crash causes using a large real-world 
 </td>
 
 </tr>
+<h2>🌱 Foundational Data Science Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>✈️ Aviation Accident Risk Analysis</h3>
+
+<img src="https://img.shields.io/badge/Focus-EDA-blue" />
+<img src="https://img.shields.io/badge/Tool-Tableau-orange" />
+
+<p>
+My first data science project analyzing aviation accident data to identify investment risks and safety patterns in aircraft operations.
+</p>
+
+<ul>
+<li>Performed data cleaning and feature engineering using Python.</li>
+<li>Analyzed accident trends across aircraft models and regulatory categories.</li>
+<li>Built interactive Tableau dashboard for business storytelling.</li>
+<li>Generated actionable investment recommendations based on risk analysis.</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT">
+<strong>View Project »</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </table>
 
