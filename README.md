@@ -40,7 +40,7 @@ JavaScript • React • Zustand • TailwindCSS • Ruby • Sinatra
 
 ---
 
-## 🚀 Project Journey (Chronological)
+## 🚀 My Tech Journey 
 
 ### 🌱 Phase 1 – My First Projects (Foundation)
 
