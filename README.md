@@ -64,6 +64,25 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
       <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
     </td>
   </tr>
+  <td width="50%" valign="top">
+  <h3>🎬 Movie Studio Strategy Analysis</h3>
+  <img src="https://img.shields.io/badge/Focus-SQL-blue" />
+  <img src="https://img.shields.io/badge/Analysis-EDA-orange" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQLite-green" />
+
+  <p>
+  Conducted exploratory data analysis on multiple movie industry datasets using SQLite and Python to derive business insights for a new movie studio launch strategy.
+  </p>
+
+  <ul>
+    <li>Queried relational movie databases using SQLite.</li>
+    <li>Performed data cleaning and transformation with Pandas.</li>
+    <li>Analyzed profitability, genre performance, and budget optimization.</li>
+    <li>Produced actionable recommendations backed by statistical analysis.</li>
+  </ul>
+
+  <a href="YOUR_GITHUB_LINK_HERE"><strong>View Project »</strong></a>
+</td>
 </table>
 
 ---
