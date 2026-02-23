@@ -20,13 +20,14 @@
 
 ## 👨‍💻 About Me
 
-I build intelligent systems connecting data science with real-world applications.
+I build data-driven systems and machine learning models that solve real-world problems.
 
-Focused on end-to-end engineering — from data modeling to deployment.
+My focus is on understanding algorithms deeply, applying them effectively, and turning insights into working systems.
 
-- **Current Focus:** Deep Learning & Cloud ML  
-- **Strength:** Bridging ML with web systems  
-- **Mindset:** Engineering-first problem solver  
+- **Current Focus:** Machine Learning & Deep Learning fundamentals  
+- **Strength:** Building and evaluating predictive models with practical applications  
+- **Experience:** Data analysis, model training, feature engineering, and full-stack integration  
+- **Mindset:** Analytical thinker with an engineering approach to problem solving  
 
 ---
 ## Tech Stack
