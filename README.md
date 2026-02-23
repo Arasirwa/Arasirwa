@@ -133,6 +133,148 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
 
 ---
 
+<h2>🌐 Web Development Projects</h2>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>👟 Stride E-Store</h3>
+
+<img src="https://img.shields.io/badge/Stack-React-blue" />
+<img src="https://img.shields.io/badge/State-Zustand-purple" />
+<img src="https://img.shields.io/badge/Styling-TailwindCSS-green" />
+
+<p>
+Modern e-commerce platform for browsing, purchasing, and tracking shoe orders with global state management and dynamic UI updates.
+</p>
+
+<ul>
+<li>Built with React and Zustand for efficient state handling.</li>
+<li>Implemented order tracking with status updates.</li>
+<li>Integrated API-driven product and order fetching.</li>
+<li>Designed responsive UI using Tailwind CSS.</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/stride">
+<strong>View Project »</strong>
+</a>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>💰 Finance Tracker</h3>
+
+<img src="https://img.shields.io/badge/Stack-React-blue" />
+<img src="https://img.shields.io/badge/Concept-CRUD-orange" />
+<img src="https://img.shields.io/badge/Tech-JSON_Server-green" />
+
+<p>
+A CRUD-based finance tracking application built to manage expenditures with analytics and search functionality.
+</p>
+
+<ul>
+<li>Implemented full CRUD operations using React hooks.</li>
+<li>Used JSON Server to simulate backend API.</li>
+<li>Built search and filtering features.</li>
+<li>Added analytics for total, highest expense, and category insights.</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/finance-tracker">
+<strong>View Project »</strong>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🍹 Smoothie Recipe Platform</h3>
+
+<img src="https://img.shields.io/badge/Stack-React-blue" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-orange" />
+<img src="https://img.shields.io/badge/Deployment-Netlify%20%7C%20Render-green" />
+
+<p>
+A collaborative full-stack recipe platform that allows users to browse, post, and manage smoothie recipes with backend API integration.
+</p>
+
+<ul>
+<li>Built a REST API backend with database integration.</li>
+<li>Implemented recipe CRUD functionality.</li>
+<li>Integrated frontend with deployed backend API.</li>
+<li>Deployed frontend on Netlify and backend on Render.</li>
+</ul>
+
+<a href="https://peaceful-sunburst-88d1f5.netlify.app/smoothie/3">
+<strong>Live Website »</strong>
+</a>
+
+<br/>
+
+<a href="https://github.com/Arasirwa/oursplash">
+<strong>Frontend Repo »</strong>
+</a>
+
+<br/>
+
+<a href="https://github.com/Arasirwa/backend">
+<strong>Backend Repo »</strong>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏠 Full-Stack Authentication & Listing App (Airb-b)</h3>
+
+<img src="https://img.shields.io/badge/Frontend-React-blue" />
+<img src="https://img.shields.io/badge/Backend-Sinatra-red" />
+<img src="https://img.shields.io/badge/Database-SQLite-green" />
+
+<p>
+A full-stack application with authentication and CRUD functionality built using React and a Sinatra backend with SQLite database integration.
+</p>
+
+<ul>
+<li>Implemented user registration and login authentication.</li>
+<li>Built backend API using Ruby Sinatra.</li>
+<li>Integrated database operations for creating and deleting listings.</li>
+<li>Deployed frontend on Netlify and backend on Render.</li>
+</ul>
+
+<a href="https://64834f58708fc028cd951eab--regal-meerkat-9691f5.netlify.app/">
+<strong>Live Frontend »</strong>
+</a>
+
+<br/>
+
+<a href="https://magebo.onrender.com">
+<strong>Backend API »</strong>
+</a>
+
+<br/>
+
+<a href="https://github.com/Arasirwa/My-Phase-project-Airb-b">
+<strong>Repository »</strong>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 ## 🏆 Certifications & Education
 
 - **Data Science Bootcamp** | Moringa School  
