@@ -81,7 +81,7 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
     <li>Produced actionable recommendations backed by statistical analysis.</li>
   </ul>
 
-  <a href="YOUR_GITHUB_LINK_HERE"><strong>View Project »</strong></a>
+  <a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
 </td>
 </table>
 
