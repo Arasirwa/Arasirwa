@@ -83,6 +83,28 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
 
   <a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
 </td>
+
+<td width="50%" valign="top">
+  <h3>🏋️ Athlete360 — Performance & Readiness Prediction</h3>
+
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-purple" />
+  <img src="https://img.shields.io/badge/Model-LightGBM-blue" />
+  <img src="https://img.shields.io/badge/Tech-Optuna%20%7C%20Clustering-green" />
+
+  <p>
+  Built an end-to-end machine learning system to predict athlete performance, assess injury risk, and classify player readiness using workload and fatigue indicators.
+  </p>
+
+  <ul>
+    <li>Engineered features including rolling averages and fatigue indices.</li>
+    <li>Trained and optimized LightGBM models using hyperparameter tuning.</li>
+    <li>Applied K-Means clustering for athlete segmentation.</li>
+    <li>Evaluated models using accuracy, precision, recall, and F1-score.</li>
+    <li>Designed an interactive prediction app using Streamlit/Flask (app.py).</li>
+  </ul>
+
+  <a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
+</td>
 </table>
 
 ---
