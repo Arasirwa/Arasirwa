@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Arasirwa%20William&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descSize=18&descAlignY=55" width="100%"/>
 
+<br>
+
 <p>
   <a href="mailto:arasirwawilliam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://github.com/Arasirwa">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -49,145 +49,86 @@ My focus is on end-to-end solutions — from data preprocessing and model traini
 
 ## 🚀 Key Projects
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎬 Netflix Content Analysis</h3>
-
-<img src="https://img.shields.io/badge/Type-EDA-blue" />
-<img src="https://img.shields.io/badge/Tool-Pandas-orange" />
-
-<p>Explored streaming trends using structured exploratory data analysis and visualization techniques.</p>
-
-<a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚕 NYC Taxi Prediction</h3>
-
-<img src="https://img.shields.io/badge/Problem-Regression-blue" />
-<img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
-
-<p>Predicted trip duration using feature engineering and ensemble modeling techniques.</p>
-
-<a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎬 Movie Studio Strategy Analysis</h3>
-
-<img src="https://img.shields.io/badge/Focus-SQL-blue" />
-<img src="https://img.shields.io/badge/Analysis-EDA-orange" />
-
-<p>
-Performed business analysis using SQLite and Python to derive insights for film production strategy.
-</p>
-
-<ul>
-<li>SQL querying on relational movie databases</li>
-<li>Data cleaning with Pandas</li>
-<li>Profitability & genre analysis</li>
-<li>Actionable business recommendations</li>
-</ul>
-
-<a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏋️ Athlete360 — Performance Prediction</h3>
-
-<img src="https://img.shields.io/badge/Model-LightGBM-blue" />
-<img src="https://img.shields.io/badge/Tech-Optuna%20%7C%20Clustering-green" />
-
-<p>
-End-to-end ML system for predicting athlete performance and injury risk.
-</p>
-
-<ul>
-<li>Feature engineering with rolling statistics</li>
-<li>LightGBM model optimization</li>
-<li>K-Means athlete segmentation</li>
-<li>Built prediction app via app.py</li>
-</ul>
-
-<a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🚗 Chicago Crash Cause Prediction</h3>
-
-<img src="https://img.shields.io/badge/Focus-Classification-blue" />
-<img src="https://img.shields.io/badge/Model-Random_Forest-success" />
-
-<p>
-Built a multi-class classifier to predict crash causes using a large real-world dataset.
-</p>
-
-<ul>
-<li>Handled 1.7M+ rows dataset</li>
-<li>Applied SMOTE for imbalance</li>
-<li>Compared multiple ML models</li>
-<li>Achieved 89% accuracy with Random Forest</li>
-</ul>
-
-<a href="https://github.com/Arasirwa/jubilant-guacamole"><strong>View Project »</strong></a>
-
-</td>
-
-</tr>
-<h2>🌱 Foundational Data Science Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>✈️ Aviation Accident Risk Analysis</h3>
-
-<img src="https://img.shields.io/badge/Focus-EDA-blue" />
-<img src="https://img.shields.io/badge/Tool-Tableau-orange" />
-
-<p>
-My first data science project analyzing aviation accident data to identify investment risks and safety patterns in aircraft operations.
-</p>
-
-<ul>
-<li>Performed data cleaning and feature engineering using Python.</li>
-<li>Analyzed accident trends across aircraft models and regulatory categories.</li>
-<li>Built interactive Tableau dashboard for business storytelling.</li>
-<li>Generated actionable investment recommendations based on risk analysis.</li>
-</ul>
-
-<a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT">
-<strong>View Project »</strong>
-</a>
-
-</td>
-
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Netflix Content Analysis</h3>
+      <img src="https://img.shields.io/badge/Type-EDA-blue" />
+      <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
+      <p>Explored streaming trends using structured exploratory data analysis and visualization techniques.</p>
+      <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚕 NYC Taxi Prediction</h3>
+      <img src="https://img.shields.io/badge/Problem-Regression-blue" />
+      <img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
+      <p>Predicted trip duration using feature engineering and ensemble modeling techniques.</p>
+      <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Studio Strategy Analysis</h3>
+      <img src="https://img.shields.io/badge/Focus-SQL-blue" />
+      <img src="https://img.shields.io/badge/Analysis-EDA-orange" />
+      <p>Performed business analysis using SQLite and Python to derive insights for film production strategy.</p>
+      <ul>
+        <li>SQL querying on relational movie databases</li>
+        <li>Data cleaning with Pandas</li>
+        <li>Profitability & genre analysis</li>
+        <li>Actionable business recommendations</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ Athlete360 — Performance Prediction</h3>
+      <img src="https://img.shields.io/badge/Model-LightGBM-blue" />
+      <img src="https://img.shields.io/badge/Tech-Optuna%20%7C%20Clustering-green" />
+      <p>End-to-end ML system for predicting athlete performance and injury risk.</p>
+      <ul>
+        <li>Feature engineering with rolling statistics</li>
+        <li>LightGBM model optimization</li>
+        <li>K-Means athlete segmentation</li>
+        <li>Built prediction app via app.py</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚗 Chicago Crash Cause Prediction</h3>
+      <img src="https://img.shields.io/badge/Focus-Classification-blue" />
+      <img src="https://img.shields.io/badge/Model-Random_Forest-success" />
+      <p>Built a multi-class classifier to predict crash causes using a large real-world dataset.</p>
+      <ul>
+        <li>Handled 1.7M+ rows dataset</li>
+        <li>Applied SMOTE for imbalance</li>
+        <li>Compared multiple ML models</li>
+        <li>Achieved 89% accuracy with Random Forest</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/jubilant-guacamole"><strong>View Project »</strong></a>
+    </td>
+  </tr>
 </table>
 
+## 🌱 Foundational Data Science Projects
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>✈️ Aviation Accident Risk Analysis</h3>
+      <img src="https://img.shields.io/badge/Focus-EDA-blue" />
+      <img src="https://img.shields.io/badge/Tool-Tableau-orange" />
+      <p>My first data science project analyzing aviation accident data to identify investment risks and safety patterns in aircraft operations.</p>
+      <ul>
+        <li>Performed data cleaning and feature engineering using Python.</li>
+        <li>Analyzed accident trends across aircraft models and regulatory categories.</li>
+        <li>Built interactive Tableau dashboard for business storytelling.</li>
+        <li>Generated actionable investment recommendations based on risk analysis.</li>
+      </ul>
+      <a href="https://github.com/Arasirwa/DSFT-13-END-OF-PHASE-PROJECT"><strong>View Project »</strong></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -207,5 +148,5 @@ My first data science project analyzing aviation accident data to identify inves
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Arasirwa&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Arasirwa&color=blueviolet" alt="Profile Views" />
 </div>
