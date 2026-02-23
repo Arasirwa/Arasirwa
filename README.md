@@ -20,11 +20,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Developer** transitioning into **Data Science and Machine Learning**. I bridge the gap between complex data modeling and functional web applications. My goal is to build end-to-end intelligence systems—from data ingestion and model training to deploying interactive, user-facing dashboards.
+I build intelligent systems that connect data science with practical applications.
 
-- **Current Mission:** Deepening expertise in Deep Learning and Cloud ML deployment.
-- **Superpower:** Using **React** and **Rails** to bring data models to life.
-- **Mindset:** Competitive gamer hooper  and chess player—I approach code with a strategic, "optimal move" mentality.
+My focus is on end-to-end solutions — from data preprocessing and model training to deployment and real-world integration.
+
+- **Current Focus:** Deep Learning & Cloud ML Deployment  
+- **Strength:** Bridging ML models with web applications  
+- **Mindset:** Strategic problem solver with an engineering approach  
 
 ---
 
@@ -37,7 +39,7 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 🌐 Web Development (The Full Stack)
+### 🌐 Web Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -48,98 +50,131 @@ I am a **Full-Stack Developer** transitioning into **Data Science and Machine Le
 ## 🚀 Key Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Netflix Content Analysis</h3>
-      <img src="https://img.shields.io/badge/Type-EDA-blue" />
-      <img src="https://img.shields.io/badge/Tool-Pandas-orange" />
-      <p>Exploring global streaming trends through structured EDA and visualization.</p>
-      <a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚕 NYC Taxi Prediction</h3>
-      <img src="https://img.shields.io/badge/Problem-Regression-blue" />
-      <img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
-      <p>Predicting trip duration using spatial feature engineering and ensemble models.</p>
-      <a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
-    </td>
-  </tr>
-  <td width="50%" valign="top">
-  <h3>🎬 Movie Studio Strategy Analysis</h3>
-  <img src="https://img.shields.io/badge/Focus-SQL-blue" />
-  <img src="https://img.shields.io/badge/Analysis-EDA-orange" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQLite-green" />
 
-  <p>
-  Conducted exploratory data analysis on multiple movie industry datasets using SQLite and Python to derive business insights for a new movie studio launch strategy.
-  </p>
+<tr>
 
-  <ul>
-    <li>Queried relational movie databases using SQLite.</li>
-    <li>Performed data cleaning and transformation with Pandas.</li>
-    <li>Analyzed profitability, genre performance, and budget optimization.</li>
-    <li>Produced actionable recommendations backed by statistical analysis.</li>
-  </ul>
+<td width="50%" valign="top">
 
-  <a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
+<h3>🎬 Netflix Content Analysis</h3>
+
+<img src="https://img.shields.io/badge/Type-EDA-blue" />
+<img src="https://img.shields.io/badge/Tool-Pandas-orange" />
+
+<p>Explored streaming trends using structured exploratory data analysis and visualization techniques.</p>
+
+<a href="https://github.com/Arasirwa/vigilant-rotary-phone"><strong>View Project »</strong></a>
+
 </td>
 
 <td width="50%" valign="top">
-  <h3>🏋️ Athlete360 — Performance & Readiness Prediction</h3>
 
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning-purple" />
-  <img src="https://img.shields.io/badge/Model-LightGBM-blue" />
-  <img src="https://img.shields.io/badge/Tech-Optuna%20%7C%20Clustering-green" />
+<h3>🚕 NYC Taxi Prediction</h3>
 
-  <p>
-  Built an end-to-end machine learning system to predict athlete performance, assess injury risk, and classify player readiness using workload and fatigue indicators.
-  </p>
+<img src="https://img.shields.io/badge/Problem-Regression-blue" />
+<img src="https://img.shields.io/badge/Model-Gradient_Boosting-success" />
 
-  <ul>
-    <li>Engineered features including rolling averages and fatigue indices.</li>
-    <li>Trained and optimized LightGBM models using hyperparameter tuning.</li>
-    <li>Applied K-Means clustering for athlete segmentation.</li>
-    <li>Evaluated models using accuracy, precision, recall, and F1-score.</li>
-    <li>Designed an interactive prediction app using Streamlit/Flask (app.py).</li>
-  </ul>
+<p>Predicted trip duration using feature engineering and ensemble modeling techniques.</p>
 
-  <a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
+<a href="https://github.com/Arasirwa/nyc-reg-project"><strong>View Project »</strong></a>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎬 Movie Studio Strategy Analysis</h3>
+
+<img src="https://img.shields.io/badge/Focus-SQL-blue" />
+<img src="https://img.shields.io/badge/Analysis-EDA-orange" />
+
+<p>
+Performed business analysis using SQLite and Python to derive insights for film production strategy.
+</p>
+
+<ul>
+<li>SQL querying on relational movie databases</li>
+<li>Data cleaning with Pandas</li>
+<li>Profitability & genre analysis</li>
+<li>Actionable business recommendations</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/stunning-computing-machine"><strong>View Project »</strong></a>
+
 </td>
 
 <td width="50%" valign="top">
-  <h3>🚗 Chicago Crash Cause Prediction</h3>
 
-  <img src="https://img.shields.io/badge/Focus-Classification-blue" />
-  <img src="https://img.shields.io/badge/Model-Random_Forest-success" />
-  <img src="https://img.shields.io/badge/Tech-SMOTE%20%7C%20Hyperparameter_Tuning-orange" />
+<h3>🏋️ Athlete360 — Performance Prediction</h3>
 
-  <p>
-  Built a multi-class machine learning model to predict the primary cause of traffic crashes using real-world urban dataset containing 1.7M+ records.
-  </p>
+<img src="https://img.shields.io/badge/Model-LightGBM-blue" />
+<img src="https://img.shields.io/badge/Tech-Optuna%20%7C%20Clustering-green" />
 
-  <ul>
-    <li>Preprocessed numerical and categorical features using pipelines and transformers.</li>
-    <li>Addressed severe class imbalance using SMOTE.</li>
-    <li>Compared Logistic Regression, Decision Tree, and Random Forest models.</li>
-    <li>Optimized models using RandomizedSearchCV for hyperparameter tuning.</li>
-    <li>Achieved strong performance with ensemble modeling (89% accuracy).</li>
-  </ul>
+<p>
+End-to-end ML system for predicting athlete performance and injury risk.
+</p>
 
-  <a href="https://github.com/Arasirwa/jubilant-guacamole"><strong>View Project »</strong></a>
+<ul>
+<li>Feature engineering with rolling statistics</li>
+<li>LightGBM model optimization</li>
+<li>K-Means athlete segmentation</li>
+<li>Built prediction app via app.py</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/scaling-octo-garbanzo"><strong>View Project »</strong></a>
+
 </td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚗 Chicago Crash Cause Prediction</h3>
+
+<img src="https://img.shields.io/badge/Focus-Classification-blue" />
+<img src="https://img.shields.io/badge/Model-Random_Forest-success" />
+
+<p>
+Built a multi-class classifier to predict crash causes using a large real-world dataset.
+</p>
+
+<ul>
+<li>Handled 1.7M+ rows dataset</li>
+<li>Applied SMOTE for imbalance</li>
+<li>Compared multiple ML models</li>
+<li>Achieved 89% accuracy with Random Forest</li>
+</ul>
+
+<a href="https://github.com/Arasirwa/jubilant-guacamole"><strong>View Project »</strong></a>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
 ## 🏆 Certifications & Education
 
-- **Data Science Bootcamp** | Moringa School
-- **Web Development** | Moringa School
-
-## 📈 Philosophy
-> **Build. Evaluate. Refine. Repeat.** > "Data is just noise without a narrative; code is just logic without a purpose."
+- **Data Science Bootcamp** | Moringa School  
+- **Web Development** | Moringa School  
 
 ---
+
+## 📈 Philosophy
+
+> Build. Evaluate. Refine. Repeat.  
+> Data without context is noise. Code without purpose is waste.
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arasirwa&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Arasirwa&color=blueviolet" />
 </div>
