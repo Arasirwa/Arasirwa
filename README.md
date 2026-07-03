@@ -5,18 +5,11 @@
 <br>
 
 <p>
-  <a href="mailto:arasirwawilliam@gmail.com">
+  <a href="mailto:arasirwawilliam22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Arasirwa">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- 👇 ADD YOUR LINKS: replace YOUR_LINKEDIN and YOUR_PORTFOLIO, then delete these comments -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -87,7 +80,7 @@ Full-stack software engineer who ships production web applications end to end �
         <li>Service-layer architecture, async tasks with Celery/Redis, and a full test suite</li>
       </ul>
       <!-- 👇 ADD LINK: repo or live demo. If private, keep the status badge above and add screenshots. -->
-      <a href="ADD_REPO_OR_DEMO_LINK"><strong>View Project »</strong></a>
+      <a href="https://github.com/Arasirwa/afro-heritage-v1"><strong>View Project »</strong></a>
     </td>
   </tr>
 </table>
