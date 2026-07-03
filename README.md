@@ -140,14 +140,14 @@ Full-stack software engineer who ships production web applications end to end �
         <li>Expense analytics dashboard</li>
         <li>Responsive interface</li>
       </ul>
-      <a href="https://github.com/Arasirwa/finance-tracker"><strong>View Project »</strong></a>
+      <a href="https://finance-tracker-gold-six.vercel.app/"><strong>Live Demo »</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Data Science & ML (Selected)
+## 📊 Data Science & ML 
 
 A sample of my data background — useful context for data-informed engineering.
 
