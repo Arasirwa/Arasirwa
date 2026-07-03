@@ -2,18 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Arasirwa%20William&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer&descSize=17&descAlignY=55" width="100%"/>
 <br>
 <p>
-  <a href="mailto:arasirwawilliam@gmail.com">
+  <a href="mailto:arasirwawilliam22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Arasirwa">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- 👇 ADD YOUR LINKS: replace YOUR_LINKEDIN and YOUR_PORTFOLIO, then delete these comments -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 </div>
