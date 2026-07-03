@@ -99,7 +99,7 @@ Full-stack software engineer who ships production web applications end to end �
         <li>Order tracking system</li>
         <li>Responsive UI with TailwindCSS</li>
       </ul>
-      <a href="https://github.com/Arasirwa/stride"><strong>View Project »</strong></a>
+      <a href="https://stride-kappa.vercel.app/"><strong>Live Demo »</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Full-Stack Auth & Listing App</h3>
